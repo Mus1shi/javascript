@@ -1,3 +1,6 @@
+/*Revoir le code pas sûr qu'il fonctionne. Voir la doc et noter les différentes posibilités.
+*/
+
 function afficherResultat(score, nbMotsProposes) {
   console.log("Votre score est de " + score + " sur " + nbMotsProposes)
 }
